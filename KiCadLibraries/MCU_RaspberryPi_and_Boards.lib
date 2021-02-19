@@ -62,7 +62,7 @@ ENDDEF
 DEF Pico_USB U 0 40 Y Y 1 F N
 F0 "U" -550 1100 50 H V C CNN
 F1 "Pico_USB" 0 550 50 H V C CNN
-F2 "RPi_Pico:RPi_Pico_SMD_TH" 0 0 50 V I C CNN
+F2 "MCU_RaspberryPi_and_Boards:RPi_Pico_USB_SMD_TH" 0 0 50 V I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
 T 0 0 650 50 0 0 0 "Raspberry Pi" Normal 0 C C
